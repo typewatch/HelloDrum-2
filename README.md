@@ -2,9 +2,9 @@
 HelloDrum-2 is an unofficial remix and continuation of the original HelloDrum DIY e-drums project by Ryo Kosaka.
 
 ![alt text](https://open-e-drums.com/images/oedrum1.jpg)
--# Image by Ryo Kosaka, taken from [here](https://open-e-drums.com/).
+<sub>Image by Ryo Kosaka, taken from [here](https://open-e-drums.com/).</sub>
 
-HelloDrum is a simple, open source, easy-to-build modular e-drum kit made to be as cheap and easy to build as possible that utilizes the MIDI protocol, making it compatible with virtually every music-making hardware or software out there. You can mix-n-match modules to create your own kit, or pick your favorite ones to expand your current e-kit!
+HelloDrum is a simple, **open source**, easy-to-build modular e-drum kit made to be as cheap and easy to build as possible that utilizes the MIDI protocol, making it compatible with virtually every music-making hardware or software out there. You can mix-n-match modules to create your own kit, or pick your favorite ones to expand your current e-kit!
 
 **Current Version: 1A.0.0 - This is a work in progress, expect bugs and other issues.** 
 
